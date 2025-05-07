@@ -124,13 +124,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:background="@drawable/rounded_button"
+            android:background="@drawable/rounded_bottom_gray"
             android:backgroundTint="#3A6DF0"
-            android:text="Dispositivo de control"
-            android:textColor="@android:color/white"
             android:drawableEnd="@drawable/blu"
             android:drawablePadding="8dp"
-            />
+            android:text="Dispositivo de control"
+            android:textColor="@android:color/white" />
 
         <Button
             android:id="@+id/btnContinue"
